@@ -8,5 +8,23 @@ Exemplo de saída: "O número é par." ou "O número é ímpar"
 
  */
 
-Console.WriteLine("Digite um numero inteiro");
+
+
+
+    Console.WriteLine("Digite um numero inteiro");
+
+    int numero = int.Parse(Console.ReadLine());
+
+    if (numero % 2 == 0)
+    {
+        Console.WriteLine("Numero Par");
+    }
+    else
+    {
+        Console.WriteLine("Numero Impar");
+    }
+   
+
+   
+
 

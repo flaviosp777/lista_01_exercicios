@@ -7,3 +7,22 @@ Descrição: Crie um programa que solicite a nota de um aluno e classifique a no
 Saída de amostra: "Excelente", "Bom", "Razoável" ou "Baixo".
  
  */
+
+Console.WriteLine("Insira a nota do aluno");
+int numero = int.Parse(Console.ReadLine());
+if (numero >= 9)
+{
+    Console.WriteLine("Excelente");
+}
+else if (numero >= 7)
+{
+    Console.WriteLine("boa");
+}
+else if (numero >= 5)
+{
+    Console.WriteLine("Regular");
+}
+else if (numero < 5)
+{
+    Console.WriteLine("Baixa");
+}

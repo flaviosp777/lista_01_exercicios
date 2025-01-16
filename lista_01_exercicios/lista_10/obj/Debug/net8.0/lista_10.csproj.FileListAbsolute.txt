@@ -1,0 +1,5 @@
+C:\Users\flavio.jcjesus\source\repos\lista_01_exercicios\lista_01_exercicios\lista_10\obj\Debug\net8.0\lista_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flavio.jcjesus\source\repos\lista_01_exercicios\lista_01_exercicios\lista_10\obj\Debug\net8.0\lista_10.AssemblyInfoInputs.cache
+C:\Users\flavio.jcjesus\source\repos\lista_01_exercicios\lista_01_exercicios\lista_10\obj\Debug\net8.0\lista_10.AssemblyInfo.cs
+C:\Users\flavio.jcjesus\source\repos\lista_01_exercicios\lista_01_exercicios\lista_10\obj\Debug\net8.0\lista_10.csproj.CoreCompileInputs.cache
+C:\Users\flavio.jcjesus\source\repos\lista_01_exercicios\lista_01_exercicios\lista_10\obj\Debug\net8.0\lista_10.sourcelink.json

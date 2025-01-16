@@ -7,3 +7,15 @@ Descrição: Escreva um programa que solicite o valor de uma compra e verifique 
 Saída de amostra: "Valor descontado: [valor final]." ou "Valor original: [valor]
  
  */
+
+using System.ComponentModel.Design;
+
+Console.WriteLine("Digite o valor da compra");
+double valor = double.Parse(Console.ReadLine());
+if (valor >= 100) { 
+    double desconto = valor * 0.10;
+double valorFinal = valor - desconto;
+Console.WriteLine("Valor com descontos: " + valorFinal);
+} else { 
+    Console.WriteLine("Valor original): " + valor);
+}

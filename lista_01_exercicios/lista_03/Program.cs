@@ -7,3 +7,18 @@ Descrição: Escreva um programa que solicite a nota de um aluno. Se a nota for 
 Exemplo de saída: "Aluno aprovado." ou "Aluno reprovado".
  
  */
+
+Console.WriteLine("digite um numero");
+int numero = int.Parse(Console.ReadLine());
+if (numero == 6)
+{
+    Console.WriteLine("Aluno aprovado");
+}
+else if (numero > 6)
+{
+    Console.WriteLine("Aluno aprovado");
+}
+else if (numero < 6)
+{
+    Console.WriteLine("Aluno reprovado");
+}
